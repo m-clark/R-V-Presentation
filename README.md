@@ -10,7 +10,7 @@ Run the following in your R session to get the notes and materials for the works
 install.packages('usethis')
 
 usethis::use_course(
-  'https://github.com/m-clark/R-V-Visualization/blob/master/workshop_presentation.zip?raw=true', 
+  'https://github.com/m-clark/R-V-Presentation/blob/master/workshop_presentation.zip?raw=true', 
   destdir = NULL
 )
 ```
